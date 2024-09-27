@@ -1,3 +1,13 @@
+
+
+//el funcioamiento del codigo consiste en a traves de un scanner y realizando su import correspondiente
+//logre que el usuario pueda escribir su respuesta en base a un mensaje de texto establecido
+// se usar nextline para cada unos de los jugadores 
+//y se usan un condicional if para realizar pruebas y enviar un mensaje de empate cuando se escriba lo mismo
+//se ocupa un switch con diferentes casos para definir al ganador en base a sus respuestas
+//por ultimo se hace un return y se cierra el scanner
+
+
 package com.generation;
 
 import java.util.Scanner; //se importa scanner
